@@ -2,4 +2,4 @@ practice.js
 
 *.css
 
-!important style.css
+!style.css
